@@ -82,7 +82,7 @@ You can also view the same results in the PDF report `Amazon_Sales_Report.pdf`.
 | women's shoes | 3.46 | 3.60 | 1.09 | 32.32 |
 
 ### Ratings Distribution Histogram (Appliances category example)
-![Ratings Histogram](images/images/appliances_ratings_histogram.png)
+![Ratings Histogram](images/appliances_ratings_histogram.png)
 
 ### Bar Charts
 ![Ratings Count](images/main_category_ratings_count_bar_chart.png)
