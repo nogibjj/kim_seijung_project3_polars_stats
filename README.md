@@ -1,5 +1,13 @@
 Check CI/CD Status: 
 
+[![Install](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/install.yml)
+
+[![Format](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/format.yml)
+
+[![Lint](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/lint.yml)
+
+[![Test](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/kim_seijung_project3_polars_stats/actions/workflows/test.yml)
+
 
 # Mini-project #3
 #### repo title: kim_seijung_project3_polars_stats
