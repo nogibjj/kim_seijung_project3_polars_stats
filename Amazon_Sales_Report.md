@@ -48,8 +48,8 @@
 - Casual Shoes: 10011
 
 ## Visualizations
-### Ratings Distribution Histogram (First Category)
-![Ratings Histogram](images/accessories_ratings_histogram.png)
+### Ratings Distribution Histogram
+![Ratings Histogram](images/images/appliances_ratings_histogram.png)
 ### Bar Charts
 ![Ratings Count](images/main_category_ratings_count_bar_chart.png)
 ![Mean Ratings](images/main_category_mean_ratings_bar_chart.png)

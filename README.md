@@ -62,5 +62,31 @@ Python Scripts
 ## Overview of Statistics
 You can also view the same results in the PDF report `Amazon_Sales_Report.pdf`.
 
+## Descriptive Statistics for Ratings and Number of Ratings
+| Main Category | Mean Ratings | Median Ratings | Std Dev | Mean No of Ratings |
+| ------------- | ------------ | -------------- | ------- | ------------------ |
+| accessories | 4.00 | 4.00 | 0.59 | 376.84 |
+| appliances | 3.93 | 4.00 | 0.55 | 846.31 |
+| bags & luggage | 3.89 | 4.10 | 0.86 | 929.59 |
+| beauty & health | 4.07 | 4.10 | 0.42 | 1205.89 |
+| car & motorbike | 3.72 | 3.80 | 0.80 | 289.55 |
+| grocery & gourmet foods | 4.17 | 4.20 | 0.32 | 900.34 |
+| home & kitchen | 4.00 | 4.00 | 0.56 | 1853.57 |
+| kids' fashion | 3.86 | 3.90 | 0.80 | 141.09 |
+| men's shoes | 3.57 | 3.70 | 0.88 | 200.34 |
+| pet supplies | 4.00 | 4.10 | 0.60 | 817.12 |
+| sports & fitness | 3.83 | 3.90 | 0.68 | 558.64 |
+| stores | 4.00 | 4.00 | 0.37 | 3088.89 |
+| toys & baby products | 4.07 | 4.20 | 0.56 | 3668.14 |
+| tv, audio & cameras | 3.97 | 4.00 | 0.62 | 4906.69 |
+| women's shoes | 3.46 | 3.60 | 1.09 | 32.32 |
+
+### Ratings Distribution Histogram (Appliances category example)
+![Ratings Histogram](images/images/appliances_ratings_histogram.png)
+
+### Bar Charts
+![Ratings Count](images/main_category_ratings_count_bar_chart.png)
+![Mean Ratings](images/main_category_mean_ratings_bar_chart.png)
+
 
 
