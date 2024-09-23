@@ -188,8 +188,7 @@ def generate_markdown(
         # Add links to images for visualizations
         md.write("\n## Visualizations\n")
         md.write("### Ratings Distribution Histogram\n")
-        md.write(
-            f"![Ratings Histogram](images/images/appliances_ratings_histogram.png)\n"
+        md.write("![Ratings Histogram](images/images/appliances_ratings_histogram.png)\n"
         )
         md.write("### Bar Charts\n")
         md.write("![Ratings Count](images/main_category_ratings_count_bar_chart.png)\n")
